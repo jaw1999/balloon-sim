@@ -30,8 +30,8 @@ The primary goals of this simulation are:
 ### Steps
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/hab-simulation.git
-   cd hab-simulation
+   git clone https://github.com/jaw1999/balloon-sim.git
+   cd balloon-sim
    ```
 
 2. Install required packages:
@@ -157,7 +157,7 @@ The simulation outputs a CSV file containing the balloon's state at each time st
 ## File Structure
 
 ```
-hab-simulation/
+balloon-sim/
 ├── simulation.py
 ├── requirements.txt
 ├── README.md
