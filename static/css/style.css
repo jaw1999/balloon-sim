@@ -1,0 +1,111 @@
+/* static/css/style.css */
+
+/* 1. Reset some default browser styles for consistency */
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* 2. Ensure the container spans the full width and provides proper spacing */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* 3. Style the map container to ensure it's visible and properly sized */
+#map {
+    width: 100%;
+    height: 500px; /* Adjust height as needed */
+    border: 2px solid #444; /* Optional: Adds a border around the map */
+    border-radius: 5px; /* Optional: Rounds the corners of the map */
+    box-sizing: border-box; /* Ensures padding and border are included in the total width and height */
+    background-color: #2c2c2c; /* Fallback background color */
+}
+
+/* 4. Style for the results section to make it stand out */
+#results {
+    background-color: #343a40; /* Dark background for contrast */
+    padding: 20px;
+    border-radius: 5px;
+    color: #ffffff; /* White text for readability */
+}
+
+/* 5. Customize Bootstrap form controls to match the dark theme */
+.form-control, .form-select {
+    background-color: #343a40;
+    color: #ffffff;
+    border: 1px solid #6c757d;
+}
+
+.form-control::placeholder {
+    color: #adb5bd; /* Light gray for placeholders */
+}
+
+.form-control:focus, .form-select:focus {
+    background-color: #495057;
+    color: #ffffff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(0,123,255,.25);
+}
+
+/* 6. Style invalid feedback messages */
+.invalid-feedback {
+    color: #ff6b6b; /* Light red for errors */
+}
+
+/* 7. Style the navigation tabs to fit the dark theme */
+.nav-tabs .nav-link {
+    background-color: #343a40;
+    color: #ffffff;
+    border: 1px solid #495057;
+    border-bottom: none;
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #495057;
+    color: #ffffff;
+    border-color: #495057;
+}
+
+/* 8. Style the Run Simulation button and loading spinner */
+#runSimulation {
+    min-width: 150px;
+    position: relative; /* Ensure spinner is positioned correctly */
+}
+
+#loading {
+    margin-left: 10px;
+}
+
+/* 9. Ensure the Run Simulation button and spinner are aligned */
+.btn-primary {
+    position: relative;
+}
+
+.spinner-border {
+    width: 1.5rem;
+    height: 1.5rem;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translate(-50%, -50%);
+}
+
+/* 10. Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    #map {
+        height: 300px; /* Reduce map height on smaller screens */
+    }
+
+    .nav-tabs .nav-link {
+        font-size: 0.9rem; /* Smaller font for tabs */
+    }
+
+    #runSimulation {
+        width: 100%;
+        margin-top: 10px;
+    }
+}
