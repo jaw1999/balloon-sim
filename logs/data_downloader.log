@@ -1,0 +1,92 @@
+2024-10-05 19:31:52,795 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-05 19:31:52,796 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:00:28,193 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:00:28,196 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:01:23,583 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:01:23,585 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:07:05,691 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 13:07:05,696 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:08:00,261 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 13:08:00,262 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:11:50,834 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 13:11:50,835 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:27:10,183 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:27:10,185 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:29:26,592 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:29:26,593 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:32:41,276 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:32:41,278 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:45:27,478 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:45:27,479 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:50:15,763 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:50:15,765 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:53:44,802 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:53:44,803 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:56:35,838 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:56:35,839 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 13:59:47,774 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 13:59:47,775 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:02:28,962 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 14:02:28,965 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:08:58,410 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 14:08:58,421 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:14:19,693 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 14:14:19,695 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:15:39,584 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 14:15:39,587 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:20:05,994 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 14:20:05,995 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:25:09,672 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t18z.pgrb2.0p25.f006
+2024-10-06 14:25:09,677 - WARNING - GRIB2 file 'C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t18z.pgrb2.0p25.f006' does not exist. Initiating download.
+2024-10-06 14:25:09,683 - DEBUG - Constructed URL: https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20241001/18/atmos/pgrb2/0p25/gfs.t18z.pgrb2.0p25.f006
+2024-10-06 14:25:09,684 - DEBUG - File will be saved to: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t18z.pgrb2.0p25.f006
+2024-10-06 14:25:09,687 - DEBUG - Initialized HTTP session with retry strategy.
+2024-10-06 14:25:09,687 - INFO - Starting download of gfs.t18z.pgrb2.0p25.f006 from https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20241001/18/atmos/pgrb2/0p25/gfs.t18z.pgrb2.0p25.f006
+2024-10-06 14:25:10,568 - ERROR - An error occurred while downloading gfs.t18z.pgrb2.0p25.f006: Failed to download gfs.t18z.pgrb2.0p25.f006. HTTP Status Code: 403
+2024-10-06 14:25:10,570 - DEBUG - HTTP session closed.
+2024-10-06 14:25:10,572 - ERROR - Failed to download GRIB2 file: Failed to download gfs.t18z.pgrb2.0p25.f006. HTTP Status Code: 403
+2024-10-06 14:25:42,337 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t18z.pgrb2.0p25.f024
+2024-10-06 14:25:42,339 - WARNING - GRIB2 file 'C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t18z.pgrb2.0p25.f024' does not exist. Initiating download.
+2024-10-06 14:25:42,353 - DEBUG - Constructed URL: https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20241001/18/atmos/pgrb2/0p25/gfs.t18z.pgrb2.0p25.f024
+2024-10-06 14:25:42,354 - DEBUG - File will be saved to: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t18z.pgrb2.0p25.f024
+2024-10-06 14:25:42,365 - DEBUG - Initialized HTTP session with retry strategy.
+2024-10-06 14:25:42,367 - INFO - Starting download of gfs.t18z.pgrb2.0p25.f024 from https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20241001/18/atmos/pgrb2/0p25/gfs.t18z.pgrb2.0p25.f024
+2024-10-06 14:25:43,009 - ERROR - An error occurred while downloading gfs.t18z.pgrb2.0p25.f024: Failed to download gfs.t18z.pgrb2.0p25.f024. HTTP Status Code: 403
+2024-10-06 14:25:43,011 - DEBUG - HTTP session closed.
+2024-10-06 14:25:43,013 - ERROR - Failed to download GRIB2 file: Failed to download gfs.t18z.pgrb2.0p25.f024. HTTP Status Code: 403
+2024-10-06 14:25:54,495 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 14:25:54,497 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:27:31,564 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 14:27:31,567 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 14:29:26,903 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 14:29:26,906 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 19:53:03,396 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 19:53:03,399 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 19:54:59,185 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 19:54:59,186 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 20:01:16,197 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 20:01:16,198 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 20:05:55,057 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 20:05:55,059 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 20:12:12,424 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 20:12:12,426 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 20:16:30,908 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 20:16:30,909 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 20:17:52,611 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 20:17:52,613 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 20:17:58,401 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 20:17:58,405 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 21:59:26,176 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 21:59:26,179 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 22:02:43,287 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 22:02:43,288 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 22:05:14,748 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t06z.pgrb2.0p25.f024
+2024-10-06 22:05:14,749 - INFO - GRIB2 file 'gfs.t06z.pgrb2.0p25.f024' already exists.
+2024-10-06 22:05:33,377 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 22:05:33,380 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 22:09:21,244 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 22:09:21,246 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 22:11:28,805 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 22:11:28,807 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
+2024-10-06 22:16:10,504 - DEBUG - Checking existence of GRIB2 file: C:\Users\jwest\OneDrive\Documents\Desktop\Simulator\data\atmospheric_data\gfs.t12z.pgrb2.0p25.f024
+2024-10-06 22:16:10,506 - INFO - GRIB2 file 'gfs.t12z.pgrb2.0p25.f024' already exists.
